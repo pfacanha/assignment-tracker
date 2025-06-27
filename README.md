@@ -8,7 +8,7 @@ A simple and responsive web app for tracking assignments, built with **React**, 
 - ➕ Add new assignments
 - 🗑️ Delete assignments
 - 🧠 Organized and modular component structure
-- 💅 Styled using CSS Modules
+- 🎨 Styled using CSS Modules
 
 ## 🛠️ Tech Stack
 
